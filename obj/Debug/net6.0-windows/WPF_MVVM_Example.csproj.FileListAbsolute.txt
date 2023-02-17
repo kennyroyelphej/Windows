@@ -1,0 +1,44 @@
+D:\Workspace\Windows\WPF_MVVM_Example\bin\Debug\net6.0-windows\WPF_MVVM_Example.exe
+D:\Workspace\Windows\WPF_MVVM_Example\bin\Debug\net6.0-windows\WPF_MVVM_Example.deps.json
+D:\Workspace\Windows\WPF_MVVM_Example\bin\Debug\net6.0-windows\WPF_MVVM_Example.runtimeconfig.json
+D:\Workspace\Windows\WPF_MVVM_Example\bin\Debug\net6.0-windows\WPF_MVVM_Example.dll
+D:\Workspace\Windows\WPF_MVVM_Example\bin\Debug\net6.0-windows\WPF_MVVM_Example.pdb
+D:\Workspace\Windows\WPF_MVVM_Example\obj\Debug\net6.0-windows\WPF_MVVM_Example.csproj.AssemblyReference.cache
+D:\Workspace\Windows\WPF_MVVM_Example\obj\Debug\net6.0-windows\App.g.cs
+D:\Workspace\Windows\WPF_MVVM_Example\obj\Debug\net6.0-windows\WPF_MVVM_Example_MarkupCompile.cache
+D:\Workspace\Windows\WPF_MVVM_Example\obj\Debug\net6.0-windows\WPF_MVVM_Example_MarkupCompile.lref
+D:\Workspace\Windows\WPF_MVVM_Example\obj\Debug\net6.0-windows\WPF_MVVM_Example.g.resources
+D:\Workspace\Windows\WPF_MVVM_Example\obj\Debug\net6.0-windows\WPF_MVVM_Example.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Windows\WPF_MVVM_Example\obj\Debug\net6.0-windows\WPF_MVVM_Example.AssemblyInfoInputs.cache
+D:\Workspace\Windows\WPF_MVVM_Example\obj\Debug\net6.0-windows\WPF_MVVM_Example.AssemblyInfo.cs
+D:\Workspace\Windows\WPF_MVVM_Example\obj\Debug\net6.0-windows\WPF_MVVM_Example.csproj.CoreCompileInputs.cache
+D:\Workspace\Windows\WPF_MVVM_Example\obj\Debug\net6.0-windows\WPF_MVVM_Example.dll
+D:\Workspace\Windows\WPF_MVVM_Example\obj\Debug\net6.0-windows\refint\WPF_MVVM_Example.dll
+D:\Workspace\Windows\WPF_MVVM_Example\obj\Debug\net6.0-windows\WPF_MVVM_Example.pdb
+D:\Workspace\Windows\WPF_MVVM_Example\obj\Debug\net6.0-windows\WPF_MVVM_Example.genruntimeconfig.cache
+D:\Workspace\Windows\WPF_MVVM_Example\obj\Debug\net6.0-windows\ref\WPF_MVVM_Example.dll
+D:\Workspace\Windows\WPF_MVVM_Example\obj\Debug\net6.0-windows\View\GreetingView.g.cs
+D:\Workspace\Windows\WPF_MVVM_Example\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Workspace\Windows\WPF_MVVM_Example\obj\Debug\net6.0-windows\View\GreetingView.baml
+D:\Workspace\Windows\Learn Windows\1_view_and_view_model_binding\bin\Debug\net6.0-windows\WPF_MVVM_Example.exe
+D:\Workspace\Windows\Learn Windows\1_view_and_view_model_binding\bin\Debug\net6.0-windows\WPF_MVVM_Example.deps.json
+D:\Workspace\Windows\Learn Windows\1_view_and_view_model_binding\bin\Debug\net6.0-windows\WPF_MVVM_Example.runtimeconfig.json
+D:\Workspace\Windows\Learn Windows\1_view_and_view_model_binding\bin\Debug\net6.0-windows\WPF_MVVM_Example.dll
+D:\Workspace\Windows\Learn Windows\1_view_and_view_model_binding\bin\Debug\net6.0-windows\WPF_MVVM_Example.pdb
+D:\Workspace\Windows\Learn Windows\1_view_and_view_model_binding\obj\Debug\net6.0-windows\WPF_MVVM_Example.csproj.AssemblyReference.cache
+D:\Workspace\Windows\Learn Windows\1_view_and_view_model_binding\obj\Debug\net6.0-windows\View\GreetingView.g.cs
+D:\Workspace\Windows\Learn Windows\1_view_and_view_model_binding\obj\Debug\net6.0-windows\App.g.cs
+D:\Workspace\Windows\Learn Windows\1_view_and_view_model_binding\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Workspace\Windows\Learn Windows\1_view_and_view_model_binding\obj\Debug\net6.0-windows\WPF_MVVM_Example_MarkupCompile.cache
+D:\Workspace\Windows\Learn Windows\1_view_and_view_model_binding\obj\Debug\net6.0-windows\WPF_MVVM_Example_MarkupCompile.lref
+D:\Workspace\Windows\Learn Windows\1_view_and_view_model_binding\obj\Debug\net6.0-windows\View\GreetingView.baml
+D:\Workspace\Windows\Learn Windows\1_view_and_view_model_binding\obj\Debug\net6.0-windows\WPF_MVVM_Example.g.resources
+D:\Workspace\Windows\Learn Windows\1_view_and_view_model_binding\obj\Debug\net6.0-windows\WPF_MVVM_Example.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Windows\Learn Windows\1_view_and_view_model_binding\obj\Debug\net6.0-windows\WPF_MVVM_Example.AssemblyInfoInputs.cache
+D:\Workspace\Windows\Learn Windows\1_view_and_view_model_binding\obj\Debug\net6.0-windows\WPF_MVVM_Example.AssemblyInfo.cs
+D:\Workspace\Windows\Learn Windows\1_view_and_view_model_binding\obj\Debug\net6.0-windows\WPF_MVVM_Example.csproj.CoreCompileInputs.cache
+D:\Workspace\Windows\Learn Windows\1_view_and_view_model_binding\obj\Debug\net6.0-windows\WPF_MVVM_Example.dll
+D:\Workspace\Windows\Learn Windows\1_view_and_view_model_binding\obj\Debug\net6.0-windows\refint\WPF_MVVM_Example.dll
+D:\Workspace\Windows\Learn Windows\1_view_and_view_model_binding\obj\Debug\net6.0-windows\WPF_MVVM_Example.pdb
+D:\Workspace\Windows\Learn Windows\1_view_and_view_model_binding\obj\Debug\net6.0-windows\WPF_MVVM_Example.genruntimeconfig.cache
+D:\Workspace\Windows\Learn Windows\1_view_and_view_model_binding\obj\Debug\net6.0-windows\ref\WPF_MVVM_Example.dll
